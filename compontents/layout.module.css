@@ -1,0 +1,13 @@
+.containers {
+    max-width: 36rem;
+    padding: 0 1rem;
+    margin: 3rem auto 6rem;
+  }
+  .headerImage{
+    width: 8rem;
+    height: 8rem;;
+  }
+  .borderCircle{
+      border-radius: 9999px;
+      padding: 20px;
+  }
